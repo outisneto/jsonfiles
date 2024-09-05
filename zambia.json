@@ -1,0 +1,22 @@
+{
+    "status": true,
+    "response_code": "00",
+    "message": "Verification completed",
+    "data": {
+        "id_number": "1000001/00/1",
+        "dob": "9/15/1900",
+        "first_name": "Cya",
+        "last_name": "Kali",
+        "maiden": null,
+        "place_of_birth": "Kasama",
+        "village": null,
+        "chief": null
+    },
+    "verification": {
+        "status": "VERIFIED",
+        "reference": "2d8c2a-7efd-4db7-9c3c-05a629dcc"
+    },
+    "widget_info": {},
+    "session": {},
+    "endpoint_name": "Zambia National ID"
+}
