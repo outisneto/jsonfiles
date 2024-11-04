@@ -1,0 +1,31 @@
+{
+    "status": true,
+    "message": "Information Retrieved",
+    "response_code": "00",
+    "data": {
+        "fullName": "Mulube Henry",
+        "gender": "F",
+        "dob": "1990-01-01",
+        "document_name": "ICAO Passport",
+        "documentNumber": "101010100",
+        "documentType": "Passport",
+        "documentCountry": "GBR",
+        "issuer": "None",
+        "age": 52,
+        "expirationDate": "2019-01-01",
+        "device": {
+            "HasContactlessChipReader": false,
+            "HasMagneticStripeReader": false,
+            "SerialNumber": "xxx",
+            "Type": {
+                "Manufacturer": "xxx",
+                "Model": "xxx",
+                "SensorType": 3
+            }
+        }
+    },
+    "verification": {
+        "status": "VERIFIED",
+        "reference": "91fed239-1269-4697-b423-53f26027f60e"
+    }
+}
