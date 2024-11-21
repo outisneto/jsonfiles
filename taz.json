@@ -1,0 +1,18 @@
+{
+  "id_type": "NIN",
+  "id_number": "19992010-0001-00-0001",
+  "is_valid": true,
+  "confidence": 0.95,
+  "status": "success",
+  "data": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "dob": "1985-10-19",
+    "sex": "M",
+    "expiry_date": "2024-12-31",
+    "issued_date": "2019-01-01",
+    "country": "TZ",
+    "issuing_authority": "National Identification Authority(NIDA)",
+    "photo": "base64_encoded_image_string_owner",
+    "id_image_front": "base64_encoded_image_string_front",
+} }
