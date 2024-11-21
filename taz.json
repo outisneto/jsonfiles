@@ -1,6 +1,6 @@
 {
   "status": true,
-  "detail": "NIN Verification Successfull",
+  "detail": "Verification Successfull",
   "response_code": "00",
   "data": {
     "taxpayerId": "111333222",
